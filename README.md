@@ -5,4 +5,4 @@ Completed project available here: https://arom88.github.io/Simon-game/
 
 Goal of this project was to get a better grip on jQuery framework and JavaScript logic in general. Created this game during my web development bootcamp.
 
-Made with mobile first approach and works at any screen size.https://arom88.github.io/Simon-game/
+Made with mobile first approach and works at any screen size.
